@@ -8,6 +8,7 @@
 ```bash
 # Install depdendency packages
 pip install -r requirements.txt
+# This code is also included in assignment file already
 ```
 
 # How to run the '_assignment.ipynb_'
